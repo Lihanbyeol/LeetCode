@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class twoSum {
+public class TwoSum {
 	public static void main(String[] args) {
 		int[] nums = new int[] {3,2,4};
 		int[] rslt = twoSum(nums, 6);
